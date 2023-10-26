@@ -1,0 +1,11 @@
+# Ignore WordPress core files
+wp-*/
+!wp-config.php
+!wp-content/
+
+# Ignore user-specific files
+wp-config-sample.php
+.htaccess
+wp-content/debug.log
+.DS_Store
+
